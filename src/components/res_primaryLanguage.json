@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "description_header": "Hi \uD83D\uDC4B",
+    "description": " I'm Davit Gvasalia. I'm working with newest front-end frameworks like Angular and React. What you are seeing now is portfolio template from data-collab.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Recipe App",
+      "startDate": "2020",
+      "description": "My first application, You can find recipe by searching ingredients.",
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71p-uMsPA4L.jpg",
+        "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/12/Shakshuka-19.jpg"
+      ],
+      "url": "https://ng-course-recipe-book-58413.web.app/auth",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "FireBase"
+        }
+      ]
+    },
+    {
+      "title": "Games App",
+      "startDate": "2020",
+      "description": "I made App for search and download PC games",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5af50fb3372b967d9e371889/1530897470418-0OT1QHCFUN6Z9EFNUKNG/splash_2.jpg",
+        "https://www.guinnessworldrecords.com/Images/GTA-V-main_tcm25-19095.jpg"
+      ],
+      "url": "https://github.com/data-collab/ng-video-games-db-main",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "Burger App",
+      "startDate": "2020",
+      "description": "My One of first Bootstrap apps",
+      "images": [
+        "https://eggncream.com/wp-content/uploads/2021/08/Smash-Burgers_EXPS_TOHcom20_246232_B10_06_10b.jpg",
+        "https://imageproxy.wolt.com/venue/60486511d8313a10c9864131/8d37e10e-9d34-11eb-a586-5ec074cf9b72_tasty_pic_16_9.jpg"
+      ],
+      "url": "https://github.com/data-collab/BurgerWeb-bootstrap",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "NOXTTON",
+      "title": "JR Front-End Developer",
+      "years": "09.2020 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Business and technologies University",
+      "title": "Student",
+      "years": "06.2018 - present",
+      "mainTech": [
+        "Front-End",
+        "Python basics",
+        "Java basics"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "Android Studio"
+      ]
+    }
+  ]
+}
